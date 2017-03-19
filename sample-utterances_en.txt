@@ -1,0 +1,10 @@
+TriathlonMotivationIntent for a quote
+TriathlonMotivationIntent for a motivational quote
+TriathlonMotivationIntent tell me a quote
+TriathlonMotivationIntent to tell me a quote
+TriathlonMotivationIntent give me a quote
+TriathlonMotivationIntent to give me a quote
+TriathlonMotivationIntent motivate me
+TriathlonMotivationIntent to motivate me
+TriathlonMotivationIntent kick my butt
+TriathlonMotivationIntent to kick my butt

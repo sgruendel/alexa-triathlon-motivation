@@ -1,0 +1,7 @@
+TriathlonMotivationIntent gib mir ein Zitat
+TriathlonMotivationIntent nach einem Zitat
+TriathlonMotivationIntent gib mir einen Spruch
+TriathlonMotivationIntent nach einem Spruch
+TriathlonMotivationIntent motiviere mich
+TriathlonMotivationIntent tritt mir in den Hintern
+TriathlonMotivationIntent mir in den Hintern zu treten
