@@ -31,7 +31,7 @@ describe('Testing a session with the TriathlonMotivationIntent', () => {
                     "name": "TriathlonMotivationIntent",
                     "slots": {}
                 },
-                "locale": "en-US"
+                "locale": "de-DE"
             },
             "version": "1.0"
         }, ctx)
@@ -41,7 +41,7 @@ describe('Testing a session with the TriathlonMotivationIntent', () => {
             .catch(err => { speechError = err; done(); })
     })
     
-    describe('The response is structurally correct for Alexa Speech Services', () => {
+    describe('The response', () => {
         it('should not have errored', () => {
             expect(speechError).to.be.null
         })
