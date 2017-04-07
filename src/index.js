@@ -23,11 +23,11 @@ const languageStrings = {
             "STOP_MESSAGE": "Go for it!",
             "QUOTES": [
                 "Don't count laps. Make every lap count.",
-                "H2O -- two parts Heart & one part Obsession.",
+                "H2O: two parts Heart & one part Obsession.",
                 "A 12 minute mile is just as far as a 6 minute mile.",
                 "The price of discipline is always less than the pain of regret.",
                 "Energy and persistence conquer all things.",
-                "Clear you mind of 'can't'.",
+                "Clear your mind of 'can't'.",
                 "Dreams don't work unless you do.",
                 "Your body won't go where your mind doesn't push it.",
                 "It's never a question of 'can you?', but 'will you?'",
@@ -162,7 +162,7 @@ const handlers = {
         const quotes = this.t('QUOTES');
         const quoteIndex = Math.floor(Math.random() * quotes.length);
         const randomQuote = quotes[quoteIndex];
-        console.log('using random quote:', randomQuote);
+        console.log('using random quote', quoteIndex + ':', randomQuote);
 
         // Create speech output
         const speechOutput = this.t('QUOTE_MESSAGE') + randomQuote;
